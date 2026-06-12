@@ -41,76 +41,17 @@
 
 <div align="center">
 
-<!--  Timeline SVG  -->
-<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
-
-  <!-- Horizontal spine -->
-  <line x1="60" y1="210" x2="840" y2="210" stroke="#444" stroke-width="3"/>
-
-  <!-- ── Node 1: VIT Chennai (Jul 2024) ── -->
-  <line x1="100" y1="210" x2="100" y2="270" stroke="#6366f1" stroke-width="2.5"/>
-  <circle cx="100" cy="210" r="18" fill="#1a1a2e" stroke="#6366f1" stroke-width="2.5"/>
-  <text x="100" y="214" text-anchor="middle" fill="#6366f1" font-size="13">🎓</text>
-  <circle cx="100" cy="278" r="5" fill="#6366f1"/>
-  <text x="100" y="298" text-anchor="middle" fill="#aaa" font-size="10">Jul 2024</text>
-  <text x="100" y="312" text-anchor="middle" fill="#fff" font-size="10" font-weight="bold">VIT Chennai</text>
-  <text x="100" y="324" text-anchor="middle" fill="#aaa" font-size="9">B.Tech CSE</text>
-
-  <!-- ── Node 2: DRDO (May 2025) ── -->
-  <line x1="210" y1="210" x2="210" y2="140" stroke="#f59e0b" stroke-width="2.5"/>
-  <circle cx="210" cy="210" r="18" fill="#1a1a2e" stroke="#f59e0b" stroke-width="2.5"/>
-  <text x="210" y="214" text-anchor="middle" fill="#f59e0b" font-size="13">🔬</text>
-  <circle cx="210" cy="132" r="5" fill="#f59e0b"/>
-  <text x="210" y="122" text-anchor="middle" fill="#aaa" font-size="10">May–Jun 2025</text>
-  <text x="210" y="108" text-anchor="middle" fill="#fff" font-size="10" font-weight="bold">DRDO Intern</text>
-  <text x="210" y="96" text-anchor="middle" fill="#aaa" font-size="9">Computer Vision</text>
-
-  <!-- ── Node 3: IIDE (Apr 2024) ── -->
-  <line x1="320" y1="210" x2="320" y2="270" stroke="#10b981" stroke-width="2.5"/>
-  <circle cx="320" cy="210" r="18" fill="#1a1a2e" stroke="#10b981" stroke-width="2.5"/>
-  <text x="320" y="214" text-anchor="middle" fill="#10b981" font-size="13">📱</text>
-  <circle cx="320" cy="278" r="5" fill="#10b981"/>
-  <text x="320" y="298" text-anchor="middle" fill="#aaa" font-size="10">Apr–May 2024</text>
-  <text x="320" y="312" text-anchor="middle" fill="#fff" font-size="10" font-weight="bold">IIDE Intern</text>
-  <text x="320" y="324" text-anchor="middle" fill="#aaa" font-size="9">Digital Marketing</text>
-
-  <!-- ── Node 4: Nexrova (Feb 2026) ── -->
-  <line x1="450" y1="210" x2="450" y2="140" stroke="#ec4899" stroke-width="2.5"/>
-  <circle cx="450" cy="210" r="18" fill="#1a1a2e" stroke="#ec4899" stroke-width="2.5"/>
-  <text x="450" y="214" text-anchor="middle" fill="#ec4899" font-size="13">💻</text>
-  <circle cx="450" cy="132" r="5" fill="#ec4899"/>
-  <text x="450" y="122" text-anchor="middle" fill="#aaa" font-size="10">Feb–May 2026</text>
-  <text x="450" y="108" text-anchor="middle" fill="#fff" font-size="10" font-weight="bold">SDE Intern</text>
-  <text x="450" y="96" text-anchor="middle" fill="#aaa" font-size="9">Nexrova Pvt Ltd</text>
-
-  <!-- ── Node 5: CodeChef VITC (Jan 2026) ── -->
-  <line x1="570" y1="210" x2="570" y2="270" stroke="#8b5cf6" stroke-width="2.5"/>
-  <circle cx="570" cy="210" r="18" fill="#1a1a2e" stroke="#8b5cf6" stroke-width="2.5"/>
-  <text x="570" y="214" text-anchor="middle" fill="#8b5cf6" font-size="13">⚙️</text>
-  <circle cx="570" cy="278" r="5" fill="#8b5cf6"/>
-  <text x="570" y="298" text-anchor="middle" fill="#aaa" font-size="10">Jan 2026–Now</text>
-  <text x="570" y="312" text-anchor="middle" fill="#fff" font-size="10" font-weight="bold">CodeChef VITC</text>
-  <text x="570" y="324" text-anchor="middle" fill="#aaa" font-size="9">Projects Team</text>
-
-  <!-- ── Node 6: Chakralaya (May 2026) ── -->
-  <line x1="700" y1="210" x2="700" y2="140" stroke="#06b6d4" stroke-width="2.5"/>
-  <circle cx="700" cy="210" r="18" fill="#1a1a2e" stroke="#06b6d4" stroke-width="2.5"/>
-  <text x="700" y="214" text-anchor="middle" fill="#06b6d4" font-size="13">📡</text>
-  <circle cx="700" cy="132" r="5" fill="#06b6d4"/>
-  <text x="700" y="122" text-anchor="middle" fill="#aaa" font-size="10">May 2026–Now</text>
-  <text x="700" y="108" text-anchor="middle" fill="#fff" font-size="10" font-weight="bold">Chakralaya</text>
-  <text x="700" y="96" text-anchor="middle" fill="#aaa" font-size="9">Wearable Intern</text>
-
-  <!-- ── Node 7: GSSoC (May 2026) ── -->
-  <line x1="820" y1="210" x2="820" y2="270" stroke="#f97316" stroke-width="2.5"/>
-  <circle cx="820" cy="210" r="18" fill="#1a1a2e" stroke="#f97316" stroke-width="2.5"/>
-  <text x="820" y="214" text-anchor="middle" fill="#f97316" font-size="13">🌐</text>
-  <circle cx="820" cy="278" r="5" fill="#f97316"/>
-  <text x="820" y="298" text-anchor="middle" fill="#aaa" font-size="10">May 2026–Now</text>
-  <text x="820" y="312" text-anchor="middle" fill="#fff" font-size="10" font-weight="bold">GSSoC 2026</text>
-  <text x="820" y="324" text-anchor="middle" fill="#aaa" font-size="9">AI Agents Track</text>
-
-</svg>
+| | Role | Organization | Period |
+|:---:|---|---|---|
+| 🎓 | B.Tech CSE Student | VIT Chennai | Jul 2024 – Present |
+| 🔬 | Computer Vision Intern | DRDO, Ministry of Defence | May – Jun 2025 |
+| 📱 | Digital Marketing Intern | IIDE – The Digital School | Apr – May 2024 |
+| ⚙️ | Projects Team Member | CodeChef VIT Chennai | Jan 2026 – Present |
+| 💻 | SDE Intern | Nexrova Pvt Ltd | Feb – May 2026 |
+| 👩‍💼 | Social Media Lead | CITTAA Chapter, VITC | Jul 2025 – Present |
+| 📡 | Wearable App Dev Intern | Chakralaya Analytics | May 2026 – Present |
+| 🌐 | Open Source Contributor | GirlScript SoC 2026 | May 2026 – Present |
+| 🤖 | AI/ML Dept Member | OSPC, VIT Chennai | Mar 2026 – Present |
 
 </div>
 
@@ -119,75 +60,68 @@
 ## Projects
 
 <div align="center">
-<table>
+<table border="1">
+<tr>
+<th>🔧 In Progress</th>
+<th>🚀 Shipped</th>
+<th>🧠 Research & ML</th>
+</tr>
 <tr>
 <td valign="top" width="33%">
 
-### In Progress
-
----
-
-**Nexus Crisis App**
-`Flutter` `BLE` `Gemini 1.5`
+**Nexus Crisis App**<br/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat) ![Gemini](https://img.shields.io/badge/Gemini_1.5-4285F4?style=flat&logo=google&logoColor=white)<br/>
 Emergency comms via BLE mesh, no internet. RAG AI assistant + survivor heatmap.
 
----
+<hr/>
 
-**Helio Sync**
-`React` `WebSockets` `AR`
-Solar design platform with real-time layout generation. Ranked 7th / 50+ at Devshouse'26.
+**Helio Sync**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![WebSockets](https://img.shields.io/badge/WebSockets-black?style=flat) ![AR](https://img.shields.io/badge/AR-purple?style=flat)<br/>
+Solar design platform. Auto edge detection. Ranked **7th / 50+** at Devshouse'26.
 
----
+<hr/>
 
-**Secure GenAI CTI**
-`LangChain` `LangGraph` `RAG`
-Threat intelligence report generator with prompt security & role-based access.
+**Secure GenAI CTI**<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![LangGraph](https://img.shields.io/badge/LangGraph-green?style=flat)<br/>
+Threat intelligence reports with prompt security & role-based access.
 
 </td>
 <td valign="top" width="33%">
 
-### Shipped
+**EventPulse** 🥇<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-black?style=flat)<br/>
+Full-stack event platform — **1st place**, 7-hr hackathon. Payments, live chat, OD tracker.
 
----
+<hr/>
 
-**EventPulse** 🥇
-`React` `Node.js` `WebSockets`
-Full-stack event platform — 1st place, 7-hr hackathon. Payments, live chat, OD tracker.
-
----
-
-**PortfolioPal**
-`Flask` `SQLite` `Jinja`
+**PortfolioPal**<br/>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat)<br/>
 Code-free portfolio maker with visitor keys & dark mode. [Live →](https://portfolio-pal-1.onrender.com/)
 
----
+<hr/>
 
-**ML Toolkit**
-`Flask` `Scikit-learn` `Pandas`
-Solo 8-hr hackathon — 60+ ML & EDA functionalities with no-code interface.
+**ML Toolkit**<br/>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)<br/>
+Solo 8-hr hackathon — 60+ ML & EDA functionalities, no-code interface.
 
 </td>
 <td valign="top" width="33%">
 
-### Research & ML
-
----
-
-**Sonar Classification**
-`TensorFlow` `Keras`
+**Sonar Classification**<br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)<br/>
 ANN binary classifier — ~98% train, ~83% test accuracy.
 
----
+<hr/>
 
-**Heart Disease Prediction**
-`TensorFlow` `Keras`
+**Heart Disease Prediction**<br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)<br/>
 ANN on patient health data — ~88% accuracy with full eval metrics.
 
----
+<hr/>
 
-**Song Recommendation API**
-`FastAPI` `TF-IDF` `Scikit-learn`
-Content-based recommender using cosine similarity on song metadata.
+**Song Recommendation API**<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)<br/>
+Content-based recommender using TF-IDF cosine similarity on song metadata.
 
 </td>
 </tr>
@@ -242,36 +176,11 @@ Content-based recommender using cosine similarity on song metadata.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=divyapriya382006&hide=true&hide_border=true&bg_color=0D1117&title_color=20BEFF&text_color=ffffff&icon_color=20BEFF&custom_title=Kaggle+Stats&show_icons=true" style="display:none"/>
-
-<!-- Kaggle Stats Card matching GitHub style -->
-<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
-  <rect width="495" height="195" rx="10" fill="#0D1117"/>
-  <rect width="495" height="195" rx="10" fill="none" stroke="#e040fb" stroke-width="1" stroke-opacity="0.3"/>
-
-  <!-- Title -->
-  <text x="25" y="35" fill="#e040fb" font-size="15" font-weight="bold">Kaggle Stats</text>
-  <image href="https://www.kaggle.com/static/images/favicon.ico" x="460" y="15" width="20" height="20"/>
-
-  <!-- Divider -->
-  <line x1="25" y1="48" x2="470" y2="48" stroke="#333" stroke-width="1"/>
-
-  <!-- Row 1 -->
-  <text x="25" y="75" fill="#aaa" font-size="13">📓  Notebooks Written</text>
-  <text x="380" y="75" fill="#fff" font-size="13" font-weight="bold" text-anchor="end">21</text>
-
-  <text x="25" y="103" fill="#aaa" font-size="13">💾  Public Codes Contributed</text>
-  <text x="380" y="103" fill="#fff" font-size="13" font-weight="bold" text-anchor="end">10</text>
-
-  <text x="25" y="131" fill="#aaa" font-size="13">👍  Total Upvotes</text>
-  <text x="380" y="131" fill="#fff" font-size="13" font-weight="bold" text-anchor="end">15</text>
-
-  <text x="25" y="159" fill="#aaa" font-size="13">🍴  Total Forks</text>
-  <text x="380" y="159" fill="#fff" font-size="13" font-weight="bold" text-anchor="end">19</text>
-
-  <text x="25" y="183" fill="#aaa" font-size="13">🏆  Competitions Participated</text>
-  <text x="380" y="183" fill="#fff" font-size="13" font-weight="bold" text-anchor="end">5</text>
-</svg>
+![Notebooks](https://img.shields.io/badge/Notebooks%20Written-21-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Codes](https://img.shields.io/badge/Public%20Codes-10-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Upvotes](https://img.shields.io/badge/Total%20Upvotes-15-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Forks](https://img.shields.io/badge/Total%20Forks-19-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Competitions](https://img.shields.io/badge/Competitions-5-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </div>
 
@@ -285,51 +194,18 @@ Content-based recommender using cosine similarity on song metadata.
 
 <br/><br/>
 
-<!-- CodeChef Stats Card matching GitHub style -->
-<svg width="495" height="265" viewBox="0 0 495 265" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
-  <rect width="495" height="265" rx="10" fill="#0D1117"/>
-  <rect width="495" height="265" rx="10" fill="none" stroke="#5B4638" stroke-width="1" stroke-opacity="0.6"/>
+![Rating](https://img.shields.io/badge/Rating-930-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Highest](https://img.shields.io/badge/Highest-1059-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Division](https://img.shields.io/badge/Div_4-1★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems%20Solved-153-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Contests](https://img.shields.io/badge/Contests-6-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Global Rank](https://img.shields.io/badge/Global%20Rank-160789-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 
-  <!-- Title -->
-  <text x="25" y="35" fill="#b07040" font-size="15" font-weight="bold">CodeChef Stats</text>
-  <text x="380" y="35" fill="#aaa" font-size="12" text-anchor="end">@pride_bird_56</text>
-
-  <!-- Divider -->
-  <line x1="25" y1="48" x2="470" y2="48" stroke="#333" stroke-width="1"/>
-
-  <!-- Stats -->
-  <text x="25" y="75" fill="#aaa" font-size="13">⭐  Rating</text>
-  <text x="380" y="75" fill="#fff" font-size="13" font-weight="bold" text-anchor="end">930  (Highest: 1059)</text>
-
-  <text x="25" y="103" fill="#aaa" font-size="13">🏅  Division</text>
-  <text x="380" y="103" fill="#fff" font-size="13" font-weight="bold" text-anchor="end">Div 4  ·  1★</text>
-
-  <text x="25" y="131" fill="#aaa" font-size="13">🌍  Global Rank</text>
-  <text x="380" y="131" fill="#fff" font-size="13" font-weight="bold" text-anchor="end">160,789</text>
-
-  <text x="25" y="159" fill="#aaa" font-size="13">🇮🇳  Country Rank</text>
-  <text x="380" y="159" fill="#fff" font-size="13" font-weight="bold" text-anchor="end">154,802</text>
-
-  <text x="25" y="187" fill="#aaa" font-size="13">🎯  Problems Solved</text>
-  <text x="380" y="187" fill="#fff" font-size="13" font-weight="bold" text-anchor="end">153</text>
-
-  <text x="25" y="215" fill="#aaa" font-size="13">🏁  Contests Participated</text>
-  <text x="380" y="215" fill="#fff" font-size="13" font-weight="bold" text-anchor="end">6</text>
-
-  <text x="25" y="243" fill="#aaa" font-size="13">🐍  Python Skill Test</text>
-  <text x="380" y="243" fill="#fff" font-size="13" font-weight="bold" text-anchor="end">73%</text>
-</svg>
-
-<!-- CodeChef Badges -->
 <br/>
 
-**CodeChef Badges**
-
-<img src="https://img.shields.io/badge/Contest%20Contender-Bronze-cd7f32?style=for-the-badge&logo=codechef&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Problem%20Solver-Bronze-cd7f32?style=for-the-badge&logo=codechef&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Problems%20Solved-153-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+![Contest Contender](https://img.shields.io/badge/Contest%20Contender-Bronze-cd7f32?style=for-the-badge&logo=codechef&logoColor=white)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-Bronze-cd7f32?style=for-the-badge&logo=codechef&logoColor=white)
+![Python Skill](https://img.shields.io/badge/Python%20Skill%20Test-73%25-3572A5?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
