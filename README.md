@@ -165,11 +165,8 @@ Jul 2024 – Present   B.Tech CSE Student                     VIT Chennai
 </p>
 
 ### CodeChef
-> To display your CodeChef stats card, fork [cc-visualizer](https://github.com/GaurishIIITNR/cc-visualizer), add your handle `pride_bird_56` in `user_name.java`, run the GitHub Action once, then replace this block with:
-> ```
-> ![CodeChef Stats](https://raw.githubusercontent.com/divyapriya382006/cc-visualizer/main/output/light.svg#gh-light-mode-only)
-> ![CodeChef Stats](https://raw.githubusercontent.com/divyapriya382006/cc-visualizer/main/output/dark.svg#gh-dark-mode-only)
-> ```
+![CodeChef Stats](https://raw.githubusercontent.com/divyapriya382006/cc-visualizer/main/output/light.svg#gh-light-mode-only)
+![CodeChef Stats](https://raw.githubusercontent.com/divyapriya382006/cc-visualizer/main/output/dark.svg#gh-dark-mode-only)
 
 ---
 
