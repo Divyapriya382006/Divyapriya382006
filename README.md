@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Divya%20Priya%20R%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Sophomore%20%40%20VIT%20Chennai%20%7C%20AI%20%26%20Data%20Science%20%7C%20Open%20Source&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=200&section=header&text=Divya%20Priya%20R%20K&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Sophomore%20%40%20VIT%20Chennai%20%7C%20AI%20%26%20Data%20Science%20%7C%20Open%20Source&descAlignY=58&descSize=15&descColor=cccccc" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;AI+Systems+Explorer;Open+Source+Contributor;Hackathon+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=500&lines=Building+things+that+matter+%F0%9F%9A%80;AI+Systems+Explorer;Open+Source+Contributor;Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 
 <br/>
 
@@ -40,19 +40,7 @@
 ## Experience Timeline
 
 <div align="center">
-
-| | Role | Organization | Period |
-|:---:|---|---|---|
-| 🎓 | B.Tech CSE Student | VIT Chennai | Jul 2024 – Present |
-| 🔬 | Computer Vision Intern | DRDO, Ministry of Defence | May – Jun 2025 |
-| 📱 | Digital Marketing Intern | IIDE – The Digital School | Apr – May 2024 |
-| ⚙️ | Projects Team Member | CodeChef VIT Chennai | Jan 2026 – Present |
-| 💻 | SDE Intern | Nexrova Pvt Ltd | Feb – May 2026 |
-| 👩‍💼 | Social Media Lead | CITTAA Chapter, VITC | Jul 2025 – Present |
-| 📡 | Wearable App Dev Intern | Chakralaya Analytics | May 2026 – Present |
-| 🌐 | Open Source Contributor | GirlScript SoC 2026 | May 2026 – Present |
-| 🤖 | AI/ML Dept Member | OSPC, VIT Chennai | Mar 2026 – Present |
-
+  <img src="./assets/timeline.svg" alt="Experience Timeline" width="100%"/>
 </div>
 
 ---
@@ -237,6 +225,6 @@ Full Stack  ──►  AI Systems  ──►  Intelligent Applications
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:a855f7,100:6366f1&height=100&section=footer"/>
 
 </div>
