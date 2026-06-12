@@ -47,6 +47,42 @@
 
 ---
 
+## Experience Timeline
+
+```text
+May 2026 – Present   Wearable App Development Intern        Chakralaya Analytics
+                     IoT · BLE · Embedded Systems · Real-Time Data
+
+May 2026 – Present   Open Source Contributor (AI Agents)    GirlScript Summer of Code 2026
+                     AI Agents · Open Source · Collaborative Engineering
+
+Feb 2026 – May 2026  SDE Intern                             Nexrova Pvt Ltd
+                     Python · FastAPI · WebSockets · Dart · AWS
+
+Jan 2026 – Present   Projects Team Member                   CodeChef VIT Chennai
+                     GenAI · LangChain · LangGraph · Prompt Security
+
+Mar 2026 – Present   AI/ML Department Member                OSPC, VIT Chennai
+                     Open Source · AI/ML · Community Building
+
+Jul 2025 – Present   Social Media Lead                      CITTAA Student Chapter, VIT Chennai
+                     Content Strategy · Team Leadership · PR
+
+Jul 2025 – Present   Social Media Co-Lead                   IEEE WIE Club, VIT Chennai
+                     Event Coordination · Reels · Instagram · LinkedIn
+
+May 2025 – Jun 2025  Computer Vision Intern                 DRDO, Ministry of Defence, Govt. of India
+                     RetinaNet · Object Detection · Defense Imaging
+
+Apr 2024 – May 2024  Digital Marketing Intern               IIDE – The Digital School
+                     SEO · Social Media Campaigns · Excel · Content Creation
+
+Jul 2024 – Present   B.Tech CSE Student                     VIT Chennai
+                     Graduating 2028
+```
+
+---
+
 ## Projects
 
 ### EventPulse — Real-Time Event Management Platform
@@ -109,12 +145,31 @@
 
 ## Competitive Coding
 
+### LeetCode
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/DivyaPriya382006?theme=dark&font=Nunito&ext=contest" />
 </p>
+
+### Kaggle
 <p align="center">
-  <img src="https://kaggle-stats.com/api?username=divyapriya455&theme=dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/divyapriya455" />
 </p>
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/competition" />
+  &nbsp;
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/dataset" />
+  &nbsp;
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/notebook" />
+  &nbsp;
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/discussion" />
+</p>
+
+### CodeChef
+> To display your CodeChef stats card, fork [cc-visualizer](https://github.com/GaurishIIITNR/cc-visualizer), add your handle `pride_bird_56` in `user_name.java`, run the GitHub Action once, then replace this block with:
+> ```
+> ![CodeChef Stats](https://raw.githubusercontent.com/divyapriya382006/cc-visualizer/main/output/light.svg#gh-light-mode-only)
+> ![CodeChef Stats](https://raw.githubusercontent.com/divyapriya382006/cc-visualizer/main/output/dark.svg#gh-dark-mode-only)
+> ```
 
 ---
 
