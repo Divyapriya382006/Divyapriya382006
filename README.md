@@ -1,8 +1,6 @@
-<div align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Divya%20Priya%20R%20K&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Sophomore%20%40%20VIT%20Chennai%20%7C%20AI%20%26%20Data%20Science%20%7C%20Open%20Source&descAlignY=58&descSize=15)
 
-<br/>
+<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=500&lines=Building+things+that+matter+%F0%9F%9A%80;AI+Systems+Explorer;Open+Source+Contributor;Hackathon+Winner+%F0%9F%8F%86)
 
