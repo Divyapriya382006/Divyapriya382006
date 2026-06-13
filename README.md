@@ -34,9 +34,9 @@
 
 <br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+<img src="./assets/langchain.png" height="40" alt="LangChain" title="LangChain"/>
+&nbsp;&nbsp;
+<img src="./assets/langgraph.png" height="40" alt="LangGraph" title="LangGraph"/>
 </div>
 
 ---
