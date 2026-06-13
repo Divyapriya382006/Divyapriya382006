@@ -1,6 +1,6 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=200&section=header&text=Divya%20Priya%20R%20K&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Sophomore%20%40%20VIT%20Chennai%20%7C%20AI%20%26%20Data%20Science%20%7C%20Open%20Source&descAlignY=58&descSize=15&descColor=cccccc)](https://github.com/divyapriya382006)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Divya%20Priya%20R%20K&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Sophomore%20%40%20VIT%20Chennai%20%7C%20AI%20%26%20Data%20Science%20%7C%20Open%20Source&descAlignY=58&descSize=15)
 
 <br/>
 
@@ -225,6 +225,6 @@ Full Stack  ──►  AI Systems  ──►  Intelligent Applications
 
 <br/>
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:a855f7,100:6366f1&height=100&section=footer)](https://github.com/divyapriya382006)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
