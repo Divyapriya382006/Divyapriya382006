@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Divya%20Priya%20R%20K&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Sophomore%20%40%20VIT%20Chennai%20%7C%20AI%20%26%20Data%20Science%20%7C%20Open%20Source&descAlignY=58&descSize=15)
+![header](./assets/header.svg)
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=500&lines=Building+things+that+matter+%F0%9F%9A%80;AI+Systems+Explorer;Open+Source+Contributor;Hackathon+Winner+%F0%9F%8F%86)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+things+that+matter;AI+%26+Data+Science+Explorer;Open+Source+Contributor;Hackathon+Winner)
 
 <br/>
 
@@ -118,23 +118,14 @@ Content-based recommender using TF-IDF cosine similarity on song metadata.
 
 ## GitHub Signals
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyapriya382006&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyapriya382006&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=divyapriya382006&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyapriya382006&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=divyapriya382006&theme=radical&hide_border=true&background=0D1117" />
-</div>
+![Streak](https://streak-stats.demolab.com?user=divyapriya382006&theme=radical&hide_border=true&background=0D1117)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyapriya382006&theme=react-dark&hide_border=true&bg_color=0D1117" />
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyapriya382006&theme=react-dark&hide_border=true&bg_color=0D1117)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyapriya382006&theme=radical&no-frame=true&no-bg=true&column=8&margin-w=4" />
-</div>
+
 
 ---
 
@@ -142,23 +133,16 @@ Content-based recommender using TF-IDF cosine similarity on song metadata.
 
 ### LeetCode
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/DivyaPriya382006?theme=dark&font=Nunito&ext=contest&hide_border=true" />
-</div>
+![LeetCode](https://leetcard.jacoblin.cool/DivyaPriya382006?theme=dark&font=Nunito&ext=contest&hide_border=true)
 
 ---
 
 ### Kaggle
 
-<div align="center">
-
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/competition" />
-&nbsp;
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/dataset" />
-&nbsp;
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/notebook" />
-&nbsp;
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/discussion" />
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/discussion)
 
 <br/><br/>
 
@@ -174,9 +158,7 @@ Content-based recommender using TF-IDF cosine similarity on song metadata.
 
 ### CodeChef
 
-<div align="center">
-
-<img src="https://cp-logo.vercel.app/codechef/pride_bird_56" alt="CodeChef Rating" />
+![CodeChef Rating](https://cp-logo.vercel.app/codechef/pride_bird_56)
 
 <br/><br/>
 
@@ -223,6 +205,6 @@ Full Stack  ──►  AI Systems  ──►  Intelligent Applications
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![footer](./assets/footer.svg)
 
 </div>
