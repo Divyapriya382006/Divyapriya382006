@@ -1,0 +1,29 @@
+<svg width="960" height="200" viewBox="0 0 960 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#a855f7;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4f46e5;stop-opacity:0.7"/>
+      <stop offset="50%" style="stop-color:#9333ea;stop-opacity:0.7"/>
+      <stop offset="100%" style="stop-color:#db2777;stop-opacity:0.7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="960" height="200" fill="#0D1117"/>
+
+  <!-- Back wave -->
+  <path d="M0,80 C120,140 240,20 360,80 C480,140 600,20 720,80 C840,140 900,60 960,80 L960,200 L0,200 Z" fill="url(#wave2)" opacity="0.5"/>
+
+  <!-- Front wave -->
+  <path d="M0,100 C100,60 200,140 320,100 C440,60 560,140 680,100 C800,60 880,120 960,100 L960,200 L0,200 Z" fill="url(#wave1)" opacity="0.9"/>
+
+  <!-- Name -->
+  <text x="480" y="95" text-anchor="middle" fill="#ffffff" font-size="38" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2">Divya Priya R K</text>
+
+  <!-- Subtitle -->
+  <text x="480" y="128" text-anchor="middle" fill="#e2d9f3" font-size="14" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1">Sophomore @ VIT Chennai  |  AI &amp; Data Science  |  Open Source</text>
+</svg>
