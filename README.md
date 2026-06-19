@@ -155,7 +155,7 @@ Content-based recommender using TF-IDF cosine similarity on song metadata.
 ![Notebooks](https://img.shields.io/badge/Notebooks%20Written-21-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Codes](https://img.shields.io/badge/Public%20Codes-10-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Upvotes](https://img.shields.io/badge/Total%20Upvotes-15-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Forks](https://img.shields.io/badge/Total%20Forks-19-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Forks](https://img.shields.io/badge/Total%20Forks-23-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Competitions](https://img.shields.io/badge/Competitions-5-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </div>
