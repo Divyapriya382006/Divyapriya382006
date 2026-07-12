@@ -131,8 +131,6 @@ Content-based recommender using TF-IDF cosine similarity on song metadata.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyapriya382006&theme=react-dark&hide_border=true&bg_color=0D1117)
 
-
-
 ---
 
 ## Competitive Coding
