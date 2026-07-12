@@ -1,35 +1,41 @@
-![header](./assets/header.svg)
-
 ```text
-%%-::::-#%%%%%%%%%%%%%%%*:::.-#%%%%-.:.....  .         divya@priya ~ 
-%%=::::-*%%%%%%%%%%%%%%%#:::::#%%%%=.::..... .         ─────────────────────────────
-%@+:::::+@%@@@@@@@@@%%%%%-:::.*%%%%+.:::.... .         OS: ............... GitHubOS 2026
-%@*:::::=%%%####*******++:....+%%%%*.:::....           Host: .............. VIT Chennai
-%@#:::::-::..::.. ..::--=-....=%%%@#.::.....           Uptime: ............ 19 years, 4 months
-%%%-::...  .:-:........---:::.=%%%@%:::..... .   ..    Kernel: ............ Full-Stack AI Core
-%@%-....  .:-:.:.....:.::...:.-@%%%#:.......     .     IDE: ................ VSCode 1.96.0
-@*:....  .....:::--=+=-:......:--:::.  .....     ...   
--....   .. .-=+++**#**+-.  ....=##%%=.:.....      ..   Languages.Code: .... Python, C, C++, Java, JS
-:...   ...:=++++*******+=:     .*@%@+.::....      .    Languages.Web: ..... HTML, CSS, React, Flutter
-:... ....:=*****#********+-.    :%%@+.::....           Languages.Real: .... English, Tamil
-... .  ..---=++****++++++**=.    =%@*.:.....           
-:. .  ..-=-:..:+*+--:======++.    *@#.::....           Currently.Building: . Secure GenAI CTI System
-...  . . .:-::-*#+-:.  :-=++*=    -%%:::....           Currently.Learning: . LangGraph, Edge AI
- ...:-----=++++##***+==+**###*..=. #%:.......          
-...:=*##%#*++**####**#######*+---: =@-.......          Contact.Email: ...... divyapriya382006@gmail.com
- ..:=+++++==-::-===++==+****+=--.  .#=.......          Contact.LinkedIn: ... divya-priya38
-  .:=---:=++:..::--+*+-:-==++===    -=.......          Contact.GitHub: ..... divyapriya382006
-   -====++--=+=-=+++=+++++++===.    .::......          
-   .-===+**+===++++****++++=  :      ........          GitHub Stats ─────────────────
-     ::--=+**********++==-.  .=:      ......           Repos: .... 20+  |  Stars: ....... —
-       .::--=++++*++=---.    :==       .:..-==-        Hackathons: 3 wins  |  Followers: —
-         ....::::------:      .         ::::==+*=:.    
-          ....:::--=--:.                ...::-=###*+   
-          ..:.:::----:.                  ..::.:=**+*   
-**=.        .:.::::::..                   .::.:--=--   
-@@@=:..      ...:::....                   . ...:-==-   
-%%%*::::+-  ...::::::...                  .....:===-   
-%%@*::+%@@#:..::::-::...:.                 ..::-----   
+%%*::::::-=%%%%%%%%%%%%%%%%%%##%=.:::::####%%%:::::...... ......       divya@priya ~ 
+%%#::::::--%%%%%%%%%%%%%%%%%%##%+.:::::*%##%%%-.::::..... .......  .   ──────────────────────────────────
+%%%-:::::--%%%%%%%%%%%%%%%%%%##%*.::::.+%##%%%=.:::::.... ..........   OS: ............... GitHubOS 2026
+%%%=:::::--#%%%%%%%%%%%%%%%%%%%%#:::::.=%##%#%=.:::::.... ..........   Host: .............. VIT Chennai
+%%@+:::::::*@%%%%%%%#######*****+:.....-%##%#%+.:::::.... ..........   Role: ............... Web Developer | Data Analyst
+%%@*.:::::--=--:::--::..:::-----:.. ...:%#%%%%*.:::::....  .........   Kernel: ............ Full-Stack AI Core
+%%@#:::::::......::..........-==*=::::.:#%%%%%#:::::.....  .........   IDE: ................ VSCode 1.96.0
+%%%%-::........:--:::::.......::.::::::.#%#%%%%:::::.....  .........   
+%%%@-.........:--:.::......::.:-.....::.#@%@@@@-::.......  .    ....   Languages.Code: .... Python, C, C++, Java, JS
+%@*-..........:........::-==-:::........=+=--::     .....      .....   Languages.Web: ..... HTML, CSS, React, Flutter
+%=............ .:--==+=+****+=:..........---==+-.......... .   .....   Languages.Real: .... English, Tamil
+:..............:=+++++********+-.  ......*@%@@@+.::::..... .   .....   
+::....  .....:-=+=++++**+****+++-.   .   .*%%%%+.::::..... .    ....   Currently.Building: . Secure GenAI CTI System
+:..... .....:-+++**************++=-.      :%%%@#.::::..... .........   Currently.Learning: . LangGraph, Edge AI
+..... ......-+++*****#*************=.      =%%%#.::::.....  .  .....   
+.:.  .. ...:::.::-=++**+===---==++++=:     .#%%%:::::.....        ..   Contact.Email: ...... divyapriya382006@gmail.com
+:.. .. ...:=+=-::.:-+++=----++=++===++.     -%%%-.:::.....        ..   Contact.LinkedIn: ... divya-priya38
+..... .. .....-::::=*#+=-...  :-:-=++*=     .*%%-.:::.....       . .   Contact.GitHub: ..... divyapriya382006
+ ... .:......:-====+##*++=-:::--=+*****. .:  -%%=.::......       ...   
+.....--=+*++++**++++##******+***#####**-:-== .#%+.:.......         .   Kaggle ───────────────────────────
+....:-+*######+=+***####*++*########**+-=---  =@+.:........            Notebooks: . 16   |  Upvotes: .. 17
+ ...:=*+****+==-=-:-=+==++=-=+******+++---:   .#*.::.......            Forks: ..... 42   |  User: divyapriya455
+ . .:===-==-=+*=...:::---+#*=:-=++++++=--=     -#::........            
+   .:=----:-+===-:::::-==+++++::===++==+*-     .+:.........            CodeChef ─────────────────────────
+    :====+++=---=++==++++===+++++++++===-      ..:.........            Rating: .... 918 (Div 4, 1★) | Highest: 1059
+    .-=====+**++=-==+++++*****+==+++-  :        ..:........            DSA Rating:  1248 (Provisional)
+      :----=++++++=++++******+=====:   +-        ..........            Solved: .... 183 problems | Contests: 9
+       .::---=+***######***+===-:.    :=-=        ......::.            
+     .    .:::--=====+++++=---:.      :+==         .::..:+++=.         
+            ....::::----------:.       .:           .:.:::=--*+-:.     
+            ......::::---==--:.                     ....:---=*%##*+-   
+             ..:.:::::------::.         .            ....:.::=##**##   
+              .::::::::----::..                       ..::::.-=**++*   
+*#*:.          .:::::::---::..                         .:::..---==--   
+@@@%-::.        ...:::::::....                         . .:..::-===-   
+%%%@+::::.:.    ....:::::.....                        ........-====:   
+@@%%*:-:::=%=.  ...:::::::::....                      ....:.::--=---   
 ```
 
 <div align="center">
@@ -182,11 +188,9 @@ Content-based recommender using TF-IDF cosine similarity on song metadata.
 
 <br/><br/>
 
-![Notebooks](https://img.shields.io/badge/Notebooks%20Written-21-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Codes](https://img.shields.io/badge/Public%20Codes-10-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Upvotes](https://img.shields.io/badge/Total%20Upvotes-15-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Forks](https://img.shields.io/badge/Total%20Forks-23-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Competitions](https://img.shields.io/badge/Competitions-5-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Notebooks](https://img.shields.io/badge/Public%20Notebooks-16-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Upvotes](https://img.shields.io/badge/Total%20Upvotes-17-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Forks](https://img.shields.io/badge/Total%20Forks-42-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </div>
 
@@ -198,18 +202,22 @@ Content-based recommender using TF-IDF cosine similarity on song metadata.
 
 <br/><br/>
 
-![Rating](https://img.shields.io/badge/Rating-930-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Rating](https://img.shields.io/badge/Rating-918-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![Highest](https://img.shields.io/badge/Highest-1059-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![Division](https://img.shields.io/badge/Div_4-1★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-153-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Contests](https://img.shields.io/badge/Contests-6-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Global Rank](https://img.shields.io/badge/Global%20Rank-160789-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![DSA Rating](https://img.shields.io/badge/DSA%20Rating-1248%20(Provisional)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems%20Solved-183-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Contests](https://img.shields.io/badge/Contests-9-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Global Rank](https://img.shields.io/badge/Global%20Rank-161942-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Country Rank](https://img.shields.io/badge/Country%20Rank-156081-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 
 <br/>
 
 ![Contest Contender](https://img.shields.io/badge/Contest%20Contender-Bronze-cd7f32?style=for-the-badge&logo=codechef&logoColor=white)
 ![Problem Solver](https://img.shields.io/badge/Problem%20Solver-Bronze-cd7f32?style=for-the-badge&logo=codechef&logoColor=white)
+![Daily Streak](https://img.shields.io/badge/Daily%20Streak-Bronze-cd7f32?style=for-the-badge&logo=codechef&logoColor=white)
 ![Python Skill](https://img.shields.io/badge/Python%20Skill%20Test-73%25-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![C Skill](https://img.shields.io/badge/C%20Skill%20Test-30%25-3572A5?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
 
