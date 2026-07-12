@@ -177,6 +177,28 @@ Content-based recommender using TF-IDF cosine similarity on song metadata.
 
 ![LeetCode](https://leetcard.jacoblin.cool/DivyaPriya382006?theme=dark&font=Nunito&ext=contest&hide_border=true)
 
+<br/><br/>
+
+![Solved](https://img.shields.io/badge/Solved-195%2F3989-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Rank](https://img.shields.io/badge/Global%20Rank-841%2C670-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Streak](https://img.shields.io/badge/Max%20Streak-50%20days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+<br/>
+
+![Easy](https://img.shields.io/badge/Easy-136%2F954-00B8A3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-57%2F2083-FFC01E?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-2%2F952-FF375F?style=for-the-badge)
+
+<br/>
+
+![C++](https://img.shields.io/badge/C%2B%2B-187%20solved-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6%20solved-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2%20solved-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<br/>
+
+**Top skill tags:** Array ×82 &nbsp;·&nbsp; String ×46 &nbsp;·&nbsp; Two Pointers ×29 &nbsp;·&nbsp; Hash Table ×42 &nbsp;·&nbsp; Math ×41 &nbsp;·&nbsp; Dynamic Programming ×13
+
 ---
 
 ### Kaggle
@@ -208,8 +230,13 @@ Content-based recommender using TF-IDF cosine similarity on song metadata.
 ![DSA Rating](https://img.shields.io/badge/DSA%20Rating-1248%20(Provisional)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![Problems](https://img.shields.io/badge/Problems%20Solved-183-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![Contests](https://img.shields.io/badge/Contests-9-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Global Rank](https://img.shields.io/badge/Global%20Rank-161942-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Country Rank](https://img.shields.io/badge/Country%20Rank-156081-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Global Rank](https://img.shields.io/badge/Rating%20Global%20Rank-161942-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Country Rank](https://img.shields.io/badge/Rating%20Country%20Rank-156081-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+
+<br/>
+
+![DSA Global Rank](https://img.shields.io/badge/DSA%20Global%20Rank-5800-2E7D32?style=for-the-badge&logo=codechef&logoColor=white)
+![DSA Country Rank](https://img.shields.io/badge/DSA%20Country%20Rank-5664-2E7D32?style=for-the-badge&logo=codechef&logoColor=white)
 
 <br/>
 
