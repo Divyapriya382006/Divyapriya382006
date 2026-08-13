@@ -7,9 +7,9 @@
 %%@*.:::::--=--:::--::..:::-----:.. ...:%#%%%%*.:::::....  .........   Kernel: ............ Full-Stack AI Core
 %%@#:::::::......::..........-==*=::::.:#%%%%%#:::::.....  .........   IDE: ................ VSCode 1.96.0
 %%%%-::........:--:::::.......::.::::::.#%#%%%%:::::.....  .........   
-%%%@-.........:--:.::......::.:-.....::.#@%@@@@-::.......  .    ....   Languages.Code: .... Python, C, C++, Java, JS
-%@*-..........:........::-==-:::........=+=--::     .....      .....   Languages.Web: ..... HTML, CSS, React, Flutter
-%=............ .:--==+=+****+=:..........---==+-.......... .   .....   Languages.Real: .... English, Tamil
+%%%@-.........:--:.::......::.:-.....::.#@%@@@@-::.......  .    ....   Languages.Code: .... Python, C, C++, Java, 
+%@*-..........:........::-==-:::........=+=--::     .....      .....   Languages.Web: ..... HTML, CSS, Flutter
+%=............ .:--==+=+****+=:..........---==+-.......... .   .....   Languages.Real: .... English, Tamil, Hindi
 :..............:=+++++********+-.  ......*@%@@@+.::::..... .   .....   
 ::....  .....:-=+=++++**+****+++-.   .   .*%%%%+.::::..... .    ....   Internships: ....... 4
 :..... .....:-+++**************++=-.      :%%%@#.::::..... .........   Scholarships: ....... SheFi '17 Scholar
@@ -27,14 +27,14 @@
     .-=====+**++=-==+++++*****+==+++-  :        ..:........            Forks: ..... 42   |  User: divyapriya455
       :----=++++++=++++******+=====:   +-        ..........            
        .::---=+***######***+===-:.    :=-=        ......::.            CodeChef ─────────────────────────
-     .    .:::--=====+++++=---:.      :+==         .::..:+++=.         Rating: .... 918 (Div 4, 1★) | Highest: 1059
-            ....::::----------:.       .:           .:.:::=--*+-:.     DSA Rating:  1248 (Provisional)
-            ......::::---==--:.                     ....:---=*%##*+-   Solved: .... 183 problems | Contests: 9
-             ..:.:::::------::.         .            ....:.::=##**##   Global Rank: 161942 | DSA Rank: 5800
+     .    .:::--=====+++++=---:.      :+==         .::..:+++=.         Rating: .... 1083 (Div 4, 1★) 
+            ....::::----------:.       .:           .:.:::=--*+-:.     DSA Rating:  1501 (Provisional)
+            ......::::---==--:.                     ....:---=*%##*+-   Solved: .... 250+ problems | Contests: 9
+             ..:.:::::------::.         .            ....:.::=##**##   Global Rank: 118519 | DSA Rank: 4438
               .::::::::----::..                       ..::::.-=**++*   
 *#*:.          .:::::::---::..                         .:::..---==--   LeetCode ─────────────────────────
-@@@%-::.        ...:::::::....                         . .:..::-===-   Solved: .... 195 / 3989 (E:136 M:57 H:2)
-%%%@+::::.:.    ....:::::.....                        ........-====:   Rank: ...... 841,670  |  Max Streak: 50d
+@@@%-::.        ...:::::::....                         . .:..::-===-   Solved: .... 250+ / 4019 (E:180+ M:75+ H:2)
+%%%@+::::.:.    ....:::::.....                        ........-====:   Rank: ...... 583,492  |  Max Streak: 50d
 @@%%*:-:::=%=.  ...:::::::::....                      ....:.::--=---   
 ```
 
@@ -177,27 +177,7 @@ Content-based recommender using TF-IDF cosine similarity on song metadata.
 
 ![LeetCode](https://leetcard.jacoblin.cool/DivyaPriya382006?theme=dark&font=Nunito&ext=contest&hide_border=true)
 
-<br/><br/>
 
-![Solved](https://img.shields.io/badge/Solved-195%2F3989-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Rank](https://img.shields.io/badge/Global%20Rank-841%2C670-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Streak](https://img.shields.io/badge/Max%20Streak-50%20days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-<br/>
-
-![Easy](https://img.shields.io/badge/Easy-136%2F954-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-57%2F2083-FFC01E?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-2%2F952-FF375F?style=for-the-badge)
-
-<br/>
-
-![C++](https://img.shields.io/badge/C%2B%2B-187%20solved-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-6%20solved-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-2%20solved-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<br/>
-
-**Top skill tags:** Array ×82 &nbsp;·&nbsp; String ×46 &nbsp;·&nbsp; Two Pointers ×29 &nbsp;·&nbsp; Hash Table ×42 &nbsp;·&nbsp; Math ×41 &nbsp;·&nbsp; Dynamic Programming ×13
 
 ---
 
@@ -224,24 +204,23 @@ Content-based recommender using TF-IDF cosine similarity on song metadata.
 
 <br/><br/>
 
-![Rating](https://img.shields.io/badge/Rating-918-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Highest](https://img.shields.io/badge/Highest-1059-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Rating](https://img.shields.io/badge/Rating-1083-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![Division](https://img.shields.io/badge/Div_4-1★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![DSA Rating](https://img.shields.io/badge/DSA%20Rating-1248%20(Provisional)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-183-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Contests](https://img.shields.io/badge/Contests-9-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Global Rank](https://img.shields.io/badge/Rating%20Global%20Rank-161942-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Country Rank](https://img.shields.io/badge/Rating%20Country%20Rank-156081-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![DSA Rating](https://img.shields.io/badge/DSA%20Rating-1501%20(Provisional)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems%20Solved-250-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Contests](https://img.shields.io/badge/Contests-12-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Global Rank](https://img.shields.io/badge/Rating%20Global%20Rank-118519-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Country Rank](https://img.shields.io/badge/Rating%20Country%20Rank-113954-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 
 <br/>
 
-![DSA Global Rank](https://img.shields.io/badge/DSA%20Global%20Rank-5800-2E7D32?style=for-the-badge&logo=codechef&logoColor=white)
-![DSA Country Rank](https://img.shields.io/badge/DSA%20Country%20Rank-5664-2E7D32?style=for-the-badge&logo=codechef&logoColor=white)
+![DSA Global Rank](https://img.shields.io/badge/DSA%20Global%20Rank-4438-2E7D32?style=for-the-badge&logo=codechef&logoColor=white)
+![DSA Country Rank](https://img.shields.io/badge/DSA%20Country%20Rank-4334-2E7D32?style=for-the-badge&logo=codechef&logoColor=white)
 
 <br/>
 
 ![Contest Contender](https://img.shields.io/badge/Contest%20Contender-Bronze-cd7f32?style=for-the-badge&logo=codechef&logoColor=white)
-![Problem Solver](https://img.shields.io/badge/Problem%20Solver-Bronze-cd7f32?style=for-the-badge&logo=codechef&logoColor=white)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-Silver-cd7f32?style=for-the-badge&logo=codechef&logoColor=white)
 ![Daily Streak](https://img.shields.io/badge/Daily%20Streak-Bronze-cd7f32?style=for-the-badge&logo=codechef&logoColor=white)
 ![Python Skill](https://img.shields.io/badge/Python%20Skill%20Test-73%25-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![C Skill](https://img.shields.io/badge/C%20Skill%20Test-30%25-3572A5?style=for-the-badge&logo=c&logoColor=white)
@@ -279,4 +258,3 @@ Full Stack  ──►  AI Systems  ──►  Intelligent Applications
 ![footer](./assets/footer.svg)
 
 </div>
- can u update rhis readme?
