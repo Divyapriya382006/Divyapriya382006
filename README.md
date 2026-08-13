@@ -161,10 +161,10 @@ Content-based recommender using TF-IDF cosine similarity.
 ## GitHub Signals
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyapriya382006&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyapriya382006&theme=github_dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyapriya382006&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyapriya382006&theme=github_dark" />
 </p>
 
 ---
