@@ -162,13 +162,13 @@ Content-based recommender using TF-IDF cosine similarity on song metadata.
 
 ## GitHub Signals
 
-![Stats](https://github-readme-stats.vercel.app/api?username=divyapriya382006&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyapriya382006&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyapriya382006&show_icons=true&theme=tokyonight" />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=divyapriya382006&theme=radical&hide_border=true&background=0D1117)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyapriya382006&theme=react-dark&hide_border=true&bg_color=0D1117)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyapriya382006&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## Competitive Coding
@@ -200,7 +200,6 @@ Content-based recommender using TF-IDF cosine similarity on song metadata.
 
 ### CodeChef
 
-![CodeChef Rating](https://cp-logo.vercel.app/codechef/pride_bird_56)
 
 <br/><br/>
 
