@@ -176,14 +176,14 @@ Content-based recommender using TF-IDF cosine similarity.
 **LeetCode**
 ![LeetCode](https://leetcard.jacoblin.cool/DivyaPriya382006?theme=dark&font=Nunito&ext=contest&hide_border=true)
 
-**Kaggle** — 16 notebooks · 17 upvotes · 42 forks
+**Kaggle** — 19 public notebooks · 17 upvotes · 42 forks
 <br/>
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/discussion)
 
-**CodeChef** — Rating 1083 (Div 4, 1★) · DSA Rating 1501 (Provisional) · 250+ problems solved
+**CodeChef** — Rating 1092 (Div 4, 1★) · DSA Rating 1508 (Provisional) · 250+ problems solved
 <br/>
 ![Contest Contender](https://img.shields.io/badge/Contest%20Contender-Bronze-cd7f32?style=for-the-badge&logo=codechef&logoColor=white)
 ![Problem Solver](https://img.shields.io/badge/Problem%20Solver-Silver-cd7f32?style=for-the-badge&logo=codechef&logoColor=white)
