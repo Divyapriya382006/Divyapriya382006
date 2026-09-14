@@ -3,23 +3,23 @@
 %%#::::::--%%%%%%%%%%%%%%%%%%##%+.:::::*%##%%%-.::::..... .......  .   ──────────────────────────────────
 %%%-:::::--%%%%%%%%%%%%%%%%%%##%*.::::.+%##%%%=.:::::.... ..........   OS: ............... GitHubOS 2026
 %%%=:::::--#%%%%%%%%%%%%%%%%%%%%#:::::.=%##%#%=.:::::.... ..........   Host: .............. VIT Chennai
-%%@+:::::::*@%%%%%%%#######*****+:.....-%##%#%+.:::::.... ..........   Role: ............... Web Developer | Data Analyst
+%%@+:::::::*@%%%%%%%#######*****+:.....-%##%#%+.:::::.... ..........   Role: ............... Software Developer | AI Engineer
 %%@*.:::::--=--:::--::..:::-----:.. ...:%#%%%%*.:::::....  .........   Kernel: ............ Full-Stack AI Core
 %%@#:::::::......::..........-==*=::::.:#%%%%%#:::::.....  .........   IDE: ................ VSCode 1.96.0
 %%%%-::........:--:::::.......::.::::::.#%#%%%%:::::.....  .........   
-%%%@-.........:--:.::......::.:-.....::.#@%@@@@-::.......  .    ....   Languages.Code: .... Python, C, C++, Java
-%@*-..........:........::-==-:::........=+=--::     .....      .....   Languages.Web: ..... HTML, CSS, Flutter
-%=............ .:--==+=+****+=:..........---==+-.......... .   .....   Languages.Real: .... English, Tamil, Hindi
+%%%@-.........:--:.::......::.:-.....::.#@%@@@@-::.......  .    ....   Internships: ....... Chakralaya Analytics, Nexrova, DRDO
+%@*-..........:........::-==-:::........=+=--::     .....      .....   Scholarships: ....... SheFi '17 Scholar
+%=............ .:--==+=+****+=:..........---==+-.......... .   .....   Open Source: ........ GSSoC '26 Contributor
 :..............:=+++++********+-.  ......*@%@@@+.::::..... .   .....   
-::....  .....:-=+=++++**+****+++-.   .   .*%%%%+.::::..... .    ....   Internships: ....... 4
-:..... .....:-+++**************++=-.      :%%%@#.::::..... .........   Scholarships: ....... SheFi '17 Scholar
-..... ......-+++*****#*************=.      =%%%#.::::.....  .  .....   Open Source: ........ GSSoC Contributor
+::....  .....:-=+=++++**+****+++-.   .   .*%%%%+.::::..... .    ....   Languages.Code: .... Python, C, C++, Java
+:..... .....:-+++**************++=-.      :%%%@#.::::..... .........   Languages.Web: ..... HTML, CSS, Flutter
+..... ......-+++*****#*************=.      =%%%#.::::.....  .  .....   Languages.Real: .... English, Tamil, Hindi, French
 .:.  .. ...:::.::-=++**+===---==++++=:     .#%%%:::::.....        ..   
-:.. .. ...:=+=-::.:-+++=----++=++===++.     -%%%-.:::.....        ..   Currently.Building: . Secure GenAI CTI System
-..... .. .....-::::=*#+=-...  :-:-=++*=     .*%%-.:::.....       . .   Currently.Learning: . LangGraph, Edge AI
- ... .:......:-====+##*++=-:::--=+*****. .:  -%%=.::......       ...   
-.....--=+*++++**++++##******+***#####**-:-== .#%+.:.......         .   Contact: ............ divyapriya382006@gmail.com
-....:-+*######+=+***####*++*########**+-=---  =@+.:........            LinkedIn: divya-priya38 · GitHub: divyapriya382006
+:.. .. ...:=+=-::.:-+++=----++=++===++.     -%%%-.:::.....        ..   Contact: ............ divyapriya382006@gmail.com
+..... .. .....-::::=*#+=-...  :-:-=++*=     .*%%-.:::.....       . .   LinkedIn: divya-priya38 · GitHub: divyapriya382006
+ ... .:......:-====+##*++=-:::--=+*****. .:  -%%=.::......       ...
+.....--=+*++++**++++##******+***#####**-:-== .#%+.:.......         .   
+....:-+*######+=+***####*++*########**+-=---  =@+.:........            
  ...:=*+****+==-=-:-=+==++=-=+******+++---:   .#*.::.......            
  . .:===-==-=+*=...:::---+#*=:-=++++++=--=     -#::........            
    .:=----:-+===-:::::-==+++++::===++==+*-     .+:.........            
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+things+that+matter;AI+%26+Data+Science+Explorer;Open+Source+Contributor;Hackathon+Winner)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+things+that+matter;AI+%26+Data+Science+Explorer;Open+Source+Contributor;4x+Hackathon+Winner)
 
 <br/>
 
@@ -60,7 +60,7 @@
 
 - **Secure GenAI CTI System** — LangChain + LangGraph RAG pipeline for automated cyber threat intelligence, with role-based access and prompt security
 - **Wearable & embedded systems** at Chakralaya Analytics — real-time IoT data, BLE, device connectivity
-- Open-source contributor, **GirlScript Summer of Code 2026**
+- Open-source contributor, **GirlScript Summer of Code 2026** (AI Agents Track)
 - Exploring **Flutter, React, and edge AI** for real-world deployment
 
 ---
@@ -68,7 +68,7 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,flask,fastapi,react,html,css,js,flutter,dart,sqlite,postgres,opencv,tensorflow,git,github,figma,vercel&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,flask,fastapi,react,ts,html,css,js,flutter,dart,sqlite,postgres,opencv,tensorflow,git,github,figma,vercel&perline=10" />
   <br/>
   <img src="./assets/langchain.png" height="40" alt="LangChain" title="LangChain"/>
   &nbsp;&nbsp;
@@ -82,6 +82,14 @@
 <div align="center">
   <img src="./assets/timeline.svg" alt="Experience Timeline" width="100%"/>
 </div>
+
+- **Wearable App Development Intern**, Chakralaya Analytics — *ongoing*
+- **Projects Department Member**, CodeChef VIT-Chennai Chapter — *ongoing*
+- **Open Source & Research Department Member**, Open Source Programming Club VITC — *ongoing*
+- **Social Media Lead**, CITTAA Student Chapter VITC — *ongoing*
+- **SheFi '17 Scholar** — *ongoing*
+- Ex–SDE & AI Engineering Intern, Nexrova Technologies
+- Ex–Computer Vision Intern, DRDO (CVRDE)
 
 ---
 
@@ -97,15 +105,15 @@
 <tr>
 <td valign="top" width="33%">
 
-**Nexus Crisis App**<br/>
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat) ![Gemini](https://img.shields.io/badge/Gemini_1.5-4285F4?style=flat&logo=google&logoColor=white)<br/>
-Emergency comms via BLE mesh, no internet. RAG assistant + survivor heatmap.
+**CivicFlow**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-green?style=flat) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)<br/>
+Verifiable agentic automation for citizen services, with cryptographic tamper-evident logging.
 
 <hr/>
 
-**Helio Sync**<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![WebSockets](https://img.shields.io/badge/WebSockets-black?style=flat) ![AR](https://img.shields.io/badge/AR-purple?style=flat)<br/>
-Solar design platform with auto edge detection. **7th / 50+** at Devshouse'26.
+**Nexus Crisis App**<br/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat) ![Gemini](https://img.shields.io/badge/Gemini_1.5-4285F4?style=flat&logo=google&logoColor=white)<br/>
+Emergency comms via BLE mesh, no internet. RAG assistant + survivor heatmap.
 
 <hr/>
 
@@ -122,15 +130,15 @@ Full-stack event platform — **1st place**, 7-hr hackathon. Payments, live chat
 
 <hr/>
 
-**PortfolioPal**<br/>
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat)<br/>
-Code-free portfolio maker with visitor keys & dark mode. [Live →](https://portfolio-pal-1.onrender.com/)
+**Helio Sync**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![WebSockets](https://img.shields.io/badge/WebSockets-black?style=flat) ![AR](https://img.shields.io/badge/AR-purple?style=flat)<br/>
+Solar design platform with auto edge detection. **Top 10 / 3500+ registrations** at Devshouse'26.
 
 <hr/>
 
-**ML Toolkit**<br/>
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)<br/>
-Solo 8-hr hackathon — 60+ ML & EDA functions, no-code interface.
+**PortfolioPal**<br/>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat)<br/>
+Code-free portfolio maker with visitor keys & dark mode. [Live →](https://portfolio-pal-1.onrender.com/)
 
 </td>
 <td valign="top" width="33%">
@@ -147,9 +155,9 @@ ANN on patient health data — ~88% accuracy, full eval metrics.
 
 <hr/>
 
-**Song Recommendation API**<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)<br/>
-Content-based recommender using TF-IDF cosine similarity.
+**ML Toolkit**<br/>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)<br/>
+Solo 8-hr hackathon — 60+ ML & EDA functions, no-code interface.
 
 </td>
 </tr>
@@ -167,23 +175,26 @@ Content-based recommender using TF-IDF cosine similarity.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyapriya382006&theme=github_dark" />
 </p>
 
+<div align="center">15 followers · 13 following · 585 contributions in the last year</div>
+
 ---
 
 ## Competitive Coding
 
 <div align="center">
 
-**LeetCode**
+**LeetCode** — 295/4055 solved · 200 Easy / 92 Med / 3 Hard · 125 active days · 52-day max streak
+<br/>
 ![LeetCode](https://leetcard.jacoblin.cool/DivyaPriya382006?theme=dark&font=Nunito&ext=contest&hide_border=true)
 
-**Kaggle** — 19 public notebooks · 17 upvotes · 42 forks
+**Kaggle** — 19 public notebooks · 19 upvotes · 48 forks
 <br/>
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/divyapriya455/discussion)
 
-**CodeChef** — Rating 1092 (Div 4, 1★) · DSA Rating 1508 (Provisional) · 250+ problems solved
+**CodeChef** — Rating 1092 (Div 4, 1★) · DSA Rating 1547 · 258+ problems solved · 13 contests
 <br/>
 ![Contest Contender](https://img.shields.io/badge/Contest%20Contender-Bronze-cd7f32?style=for-the-badge&logo=codechef&logoColor=white)
 ![Problem Solver](https://img.shields.io/badge/Problem%20Solver-Silver-cd7f32?style=for-the-badge&logo=codechef&logoColor=white)
@@ -200,8 +211,16 @@ Content-based recommender using TF-IDF cosine similarity.
 | Award | Event | Project |
 |-------|-------|---------|
 | 🥇 1st Place | Reforge Hackathon, OSPC VIT Chennai | EventPulse |
-| 🏆 Track Winner | Dev Hub Hackathon, Fateh Educational Consultancy | Healthcare App |
-| 🎖️ 7th / 50+ Teams | Devshouse'26, Google Developers Club VITC | Helio Sync |
+| 🏆 Track Winner | Dev Hub Hackathon, Fateh Educational Consultancy | VitalSense |
+| 🏛️ Hackathon Winner | Civic-tech hackathon | CivicFlow |
+| 🎖️ Top 10 / 3500+ regs | Devshouse'26, Google Developers Club VITC | Helio Sync |
+
+
+---
+
+## Certifications
+
+- **CockroachDB** — Cockroach Labs
 
 ---
 
