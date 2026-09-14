@@ -212,7 +212,7 @@ Solo 8-hr hackathon — 60+ ML & EDA functions, no-code interface.
 |-------|-------|---------|
 | 🥇 1st Place | Reforge Hackathon, OSPC VIT Chennai | EventPulse |
 | 🏆 Track Winner | Dev Hub Hackathon, Fateh Educational Consultancy | VitalSense |
-| 🏛️ Hackathon Winner | Civic-tech hackathon | CivicFlow |
+| 🏛️ Hackathon Winner | Innovative 5.0 Hackathon, Bionary Club VITC | CivicFlow |
 | 🎖️ Top 10 / 3500+ regs | Devshouse'26, Google Developers Club VITC | Helio Sync |
 
 
